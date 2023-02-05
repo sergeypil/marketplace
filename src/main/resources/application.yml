@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: marketplace
+netty:
+  default:
+    allocator:
+      max-order: 3
